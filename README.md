@@ -3,13 +3,13 @@
 Adobe Launch QA tool — local-first Electron desktop app for the Prosper
 Digital team.
 
-## Latest: v0.2.0-beta.2 (2026-05-07)
+## Latest: v0.2.0-beta.5 (2026-05-09)
 
 | Platform | Download |
 |----------|----------|
-| macOS Apple Silicon (M1 / M2 / M3) | [Beagle-0.2.0-beta.2-arm64.dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.2.0-beta.2/Beagle-0.2.0-beta.2-arm64.dmg) |
-| macOS Intel | [Beagle-0.2.0-beta.2.dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.2.0-beta.2/Beagle-0.2.0-beta.2.dmg) |
-| Windows x64 | [Beagle.Setup.0.2.0-beta.2.exe](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.2.0-beta.2/Beagle.Setup.0.2.0-beta.2.exe) |
+| macOS Apple Silicon (M1 / M2 / M3) | [Beagle-0.2.0-beta.5-arm64.dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.2.0-beta.5/Beagle-0.2.0-beta.5-arm64.dmg) |
+| macOS Intel | [Beagle-0.2.0-beta.5.dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.2.0-beta.5/Beagle-0.2.0-beta.5.dmg) |
+| Windows x64 | [Beagle.Setup.0.2.0-beta.5.exe](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.2.0-beta.5/Beagle.Setup.0.2.0-beta.5.exe) |
 
 ### Install (one-time bypass on first launch)
 
@@ -31,6 +31,7 @@ DPAPI on Windows) and never leave your machine.
 
 | Version | Date | macOS arm64 | macOS Intel | Windows x64 |
 |---------|------|-------------|-------------|-------------|
+| v0.2.0-beta.5 | 2026-05-09 | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.2.0-beta.5/Beagle-0.2.0-beta.5-arm64.dmg) | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.2.0-beta.5/Beagle-0.2.0-beta.5.dmg) | [exe](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.2.0-beta.5/Beagle.Setup.0.2.0-beta.5.exe) |
 | v0.2.0-beta.2 | 2026-05-07 | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.2.0-beta.2/Beagle-0.2.0-beta.2-arm64.dmg) | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.2.0-beta.2/Beagle-0.2.0-beta.2.dmg) | [exe](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.2.0-beta.2/Beagle.Setup.0.2.0-beta.2.exe) |
 | v0.2.0-beta.1 | 2026-05-07 | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.2.0-beta.1/Beagle-0.2.0-beta.1-arm64.dmg) | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.2.0-beta.1/Beagle-0.2.0-beta.1.dmg) | [exe](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.2.0-beta.1/Beagle.Setup.0.2.0-beta.1.exe) |
 

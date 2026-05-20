@@ -13,9 +13,28 @@ Digital team.
 
 ### Install (one-time bypass on first launch)
 
-**macOS** — open the `.dmg`, drag **Beagle** to **Applications**, then in
-Applications **right-click Beagle → Open → Open** in the dialog. macOS
-remembers, so future launches go through normally.
+**macOS** — open the `.dmg` and drag **Beagle** to **Applications**.
+Beagle is not signed with an Apple Developer ID, so the first launch is
+blocked by Gatekeeper with *"Apple could not verify Beagle is free of
+malware..."*. Pick one of these to allow it (only needed once):
+
+- **Fastest (Terminal):** open **Terminal** and run
+  ```
+  xattr -dr com.apple.quarantine /Applications/Beagle.app
+  ```
+  Then double-click Beagle from Applications — it opens normally.
+
+- **GUI (no Terminal):**
+  1. Double-click Beagle → click **Done** on the "Apple could not
+     verify" dialog (do **not** click *Move to Trash*).
+  2. Open **System Settings → Privacy & Security**, scroll to the
+     Security section, find *"Beagle was blocked to protect your
+     Mac"*, click **Open Anyway**, and authenticate with Touch ID or
+     your password.
+  3. Re-launch Beagle. A new dialog appears with an **Open Anyway**
+     button — click it, authenticate, done.
+
+After either path, every future launch goes through normally.
 
 **Windows** — run the installer. SmartScreen will say "Windows protected
 your PC" — click **More info** → **Run anyway**. Once.

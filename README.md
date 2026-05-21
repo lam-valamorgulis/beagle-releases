@@ -40,10 +40,16 @@ your PC" — click **More info** → **Run anyway**. Once.
 
 ### First-run setup
 
-The app needs Adobe Reactor + LLM credentials. On first launch you'll see
-a "Finish setup" banner — click **Open Setup**, paste your credentials,
-hit Save. They're encrypted with your OS keychain (Keychain on macOS,
-DPAPI on Windows) and never leave your machine.
+Beagle reaches Adobe Reactor through a proxy we host — you don't paste
+any Adobe credentials on your machine. On first launch you'll see a
+*"Sign in to start running"* banner; click **Open Setup**, type your
+**`@concentrix.com`** work email, and click **Sign in**. Beagle stores
+only an opaque 30-day session token, encrypted via your OS keychain
+(Keychain on macOS, DPAPI on Windows).
+
+If your session expires later (the proxy returns 401), Beagle pops a
+*"Sign-in expired"* dialog so you can re-authenticate without losing the
+current page.
 
 ## Version history
 

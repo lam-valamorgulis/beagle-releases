@@ -1,7 +1,6 @@
 # Beagle
 
-Adobe Launch QA tool — local-first Electron desktop app for the Prosper
-Digital team.
+Adobe Launch QA tool — local-first Electron desktop app.
 
 ## Latest: v0.1.0 (2026-05-21)
 

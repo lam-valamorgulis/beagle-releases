@@ -2,13 +2,13 @@
 
 Adobe Launch QA tool — local-first Electron desktop app.
 
-## Latest: v0.1.0 (2026-05-21)
+## Latest: v0.1.1 (2026-05-21)
 
 | Platform | Download |
 |----------|----------|
-| macOS Apple Silicon (M1 / M2 / M3) | [Beagle-0.1.0-arm64.dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.0/Beagle-0.1.0-arm64.dmg) |
-| macOS Intel | [Beagle-0.1.0.dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.0/Beagle-0.1.0.dmg) |
-| Windows x64 | [Beagle.Setup.0.1.0.exe](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.0/Beagle.Setup.0.1.0.exe) |
+| macOS Apple Silicon (M1 / M2 / M3) | [Beagle-0.1.1-arm64.dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.1/Beagle-0.1.1-arm64.dmg) |
+| macOS Intel | [Beagle-0.1.1.dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.1/Beagle-0.1.1.dmg) |
+| Windows x64 | [Beagle.Setup.0.1.1.exe](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.1/Beagle.Setup.0.1.1.exe) |
 
 ### Install (one-time bypass on first launch)
 
@@ -49,7 +49,9 @@ DPAPI on Windows) and never leave your machine.
 
 | Version | Date | macOS arm64 | macOS Intel | Windows x64 |
 |---------|------|-------------|-------------|-------------|
+| v0.1.1 | 2026-05-21 | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.1/Beagle-0.1.1-arm64.dmg) | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.1/Beagle-0.1.1.dmg) | [exe](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.1/Beagle.Setup.0.1.1.exe) |
 | v0.1.0 | 2026-05-21 | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.0/Beagle-0.1.0-arm64.dmg) | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.0/Beagle-0.1.0.dmg) | [exe](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.0/Beagle.Setup.0.1.0.exe) |
+| v0.1.1 | 0001-01-01 | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.1/Beagle-0.1.1-arm64.dmg) | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.1/Beagle-0.1.1.dmg) | [exe](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.1/Beagle.Setup.0.1.1.exe) |
 
 ---
 

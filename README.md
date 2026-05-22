@@ -38,26 +38,12 @@ After either path, every future launch goes through normally.
 **Windows** — run the installer. SmartScreen will say "Windows protected
 your PC" — click **More info** → **Run anyway**. Once.
 
-### First-run setup
-
-Beagle reaches Adobe Reactor through a proxy we host — you don't paste
-any Adobe credentials on your machine. On first launch you'll see a
-*"Sign in to start running"* banner; click **Open Setup**, type your
-**`@concentrix.com`** work email, and click **Sign in**. Beagle stores
-only an opaque 30-day session token, encrypted via your OS keychain
-(Keychain on macOS, DPAPI on Windows).
-
-If your session expires later (the proxy returns 401), Beagle pops a
-*"Sign-in expired"* dialog so you can re-authenticate without losing the
-current page.
-
 ## Version history
 
 | Version | Date | macOS arm64 | macOS Intel | Windows x64 |
 |---------|------|-------------|-------------|-------------|
 | v0.1.1 | 2026-05-21 | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.1/Beagle-0.1.1-arm64.dmg) | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.1/Beagle-0.1.1.dmg) | [exe](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.1/Beagle.Setup.0.1.1.exe) |
 | v0.1.0 | 2026-05-21 | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.0/Beagle-0.1.0-arm64.dmg) | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.0/Beagle-0.1.0.dmg) | [exe](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.0/Beagle.Setup.0.1.0.exe) |
-| v0.1.1 | 0001-01-01 | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.1/Beagle-0.1.1-arm64.dmg) | [dmg](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.1/Beagle-0.1.1.dmg) | [exe](https://github.com/lam-valamorgulis/beagle-releases/releases/download/v0.1.1/Beagle.Setup.0.1.1.exe) |
 
 ---
 
